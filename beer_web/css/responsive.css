@@ -1,0 +1,210 @@
+@media(max-width:1818px) {
+    .wrap {
+        width: 70%;
+    }
+    .wrap-content {
+        width: 100%;
+        margin: 0px auto;
+    }
+    #banner {
+        background-position: center;
+    }
+}
+
+@media(max-width:1657px) {
+    #footer .wrap>div {
+        width: 40%;
+    }
+}
+
+@media(max-width:1500px) {
+    .wrap-content {
+        width: 100%;
+        margin: 0px auto;
+    }
+    #articles {
+        width: 80%;
+    }
+    #articles article {
+        width: 100%;
+    }
+    #articles p {
+        float: none;
+        width: 85%;
+    }
+    #articles img {
+        float: none;
+        width: 400px;
+        margin: 0px auto;
+        margin-top: 20px;
+    }
+    #articles #social {
+        float: none;
+        margin: 0px auto;
+        width: 100%;
+        text-align: center;
+        padding-left: 20%;
+    }
+}
+
+@media (max-width:1225px) {
+    #header {
+        height: 109px;
+    }
+    #header .wrap {
+        width: 50%;
+    }
+    #logo {
+        float: none;
+        width: 300px;
+        background-color: #AB6115;
+        margin: 0px auto;
+        margin-top: 15px;
+    }
+    #footer {
+        margin: 0px auto;
+        height: auto;
+    }
+    #footer .wrap {
+        width: 50%;
+        margin: 0px auto;
+    }
+    #footer .wrap>div {
+        width: 30%;
+    }
+    #footer iframe {
+        padding-top: 30px;
+        width: 100%;
+        height: 50%;
+    }
+    #footer .wrap #info,
+    #footer .wrap #location {
+        height: auto;
+    }
+}
+
+@media (max-width:1076px) {
+    #header {
+        height: 140px;
+    }
+    #header .wrap {
+        width: 100%;
+    }
+    #logo {
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+    }
+    #logo h3 {
+        display: block;
+        float: none;
+        margin: 0px auto;
+    }
+    #menu {
+        clear: both;
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+    }
+    #menu ul li {
+        display: list-item;
+        list-style: none;
+        width: 100%;
+        margin: 0px auto;
+        text-align: center;
+    }
+    #menu ul li a {
+        line-height: 25px;
+    }
+}
+
+@media (max-width:799px) {
+    #header {
+        position: relative;
+        display: block;
+        width: 100%;
+        border: 0px;
+        padding: 0px;
+        margin: 0px auto;
+    }
+    .wrap-content {
+        display: block;
+        width: 100%;
+        border: 0px;
+        padding: 0px;
+        margin: 0px auto;
+    }
+    #menu {
+        padding-top: 3px;
+    }
+    #menu ul li a {
+        text-align: left;
+        margin-left: 45px;
+    }
+    #banner {
+        background-color: black;
+        background-size: 300%;
+    }
+    .card {
+        width: 100%;
+        height: auto;
+    }
+    .card .description {
+        display: none;
+    }
+    #articles {
+        display: block;
+        width: 100%;
+        border: 0px;
+        padding: 0px;
+        margin: 0px auto;
+    }
+    #articles article {
+        display: block;
+        width: 100%;
+        border: 0px;
+        padding: 0px;
+        margin: 0px auto;
+    }
+    #articles article h3 {
+        width: 20%;
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+    #articles article p {
+        border: 0px;
+        padding: 0px;
+        margin: 0px auto;
+    }
+    #articles img {
+        width: 80%;
+    }
+    #footer {
+        width: 100%;
+        border: 0px;
+        padding: 0px;
+        padding-bottom: 5%;
+        margin: 0px auto;
+    }
+    #footer .wrap {
+        display: block;
+        width: 100%;
+        border: 0px;
+        padding: 0px;
+        margin: 0px auto;
+    }
+    #footer .wrap>div {
+        float: none;
+        width: 95%;
+        border: 0px;
+        padding: 0px;
+        margin: 0px auto;
+    }
+    #footer iframe {
+        width: 80%;
+        height: 300px;
+    }
+    #footer h5 {
+        padding-top: 5%;
+    }
+}
