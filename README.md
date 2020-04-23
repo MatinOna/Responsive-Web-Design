@@ -1,2 +1,2 @@
-# Responsive_Web_Design
-Responsive Web Design
+# Responsive Web Design:
+HTML, CSS, Media Queries
